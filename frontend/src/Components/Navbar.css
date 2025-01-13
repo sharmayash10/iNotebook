@@ -1,0 +1,18 @@
+.loginSignUpBtn a {
+  color: white;
+}
+@media (max-width: 768px) {
+  .loginBtn {
+    margin-top: 8px;
+    margin-bottom: 13px;
+  }
+  .loginSignUpBtn {
+    flex-direction: column;
+  }
+  .loginSignUpBtn button {
+    width: 30%;
+  }
+  .logoutBtn{
+    width: 100%;
+  }
+}
