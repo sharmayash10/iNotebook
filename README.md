@@ -1,1 +1,1 @@
-Live DEMO : [inoteBook](https://inotebookdemo.vercel.app/)
+Live DEMO : [iNotebook](https://inotebookdemo.vercel.app/)
